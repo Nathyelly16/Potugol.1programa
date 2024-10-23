@@ -1,1 +1,1 @@
-# Potugol.1programa
+# Portugol.1programa
